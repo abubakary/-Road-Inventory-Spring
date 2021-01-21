@@ -1,0 +1,1 @@
+mvn install:install-file  -Dfile=E:\TARURA-SERVICES\termis-shared-utils\termis-shared-utils.jar -DgroupId=tz.go.tarura.shared.utils -DartifactId=termis-shared-utils -Dversion=0.0.1-RELEASE -Dpackaging=jar -DgeneratePom=true
